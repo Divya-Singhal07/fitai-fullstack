@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 # 💪 FitAI – Smart Gym Assistant
+👩‍💻 Author
+
+Divya Singhal
 
 AI-powered gym assistant with personalized BMI analysis, diet plans, posture correction, and weekly workout scheduling.
 
