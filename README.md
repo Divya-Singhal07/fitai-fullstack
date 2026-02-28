@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💪 FitAI – Smart Gym Assistant
 
 AI-powered gym assistant with personalized BMI analysis, diet plans, posture correction, and weekly workout scheduling.
@@ -81,3 +82,64 @@ Open `http://localhost:3000`
 - **AI Chat** – GPT-4 with HuggingFace fallback, intent classification
 - **Weekly Plans** – PyTorch recommender, age/ability-adjusted schedules
 - **Analytics** – Plotly bar/line charts, D3.js macro donut, MongoDB history
+=======
+# fitai-fullstack
+# 🏋️ FitAI – AI-Based Gym Assistant
+
+FitAI is an AI-powered gym assistant that generates personalized workout plans and fitness recommendations using AI.
+
+---
+
+## 🚀 Features
+
+- AI-generated workout plans
+- Smart fitness chat assistant
+- User progress tracking
+- Modern frontend UI
+- Backend API integration
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Python
+- FastAPI / Flask
+- OpenAI API
+- Database (SQLite / PostgreSQL)
+
+### Frontend
+- React / Next.js
+- TailwindCSS
+
+---
+
+## 📂 Project Structure
+- backend
+- frontend
+- docs
+
+---
+
+## 🧪 Testing
+
+Backend:
+- pytest
+
+Frontend:
+- npm test
+
+---
+
+## 🚀 Deployment Options
+
+Frontend → Vercel  
+Backend → Render / Railway  
+Database → Supabase / PostgreSQL  
+
+---
+
+## 📜 License
+
+MIT License
+>>>>>>> 3bc2dc89a0f46fd529201b497fcea6d5e27e9af2
