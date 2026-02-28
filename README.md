@@ -1,5 +1,4 @@
 # fitai-fullstack
-# fitai-fullstack
 # 🏋️ FitAI – AI-Based Gym Assistant
 
 FitAI is an AI-powered gym assistant that generates personalized workout plans and fitness recommendations using AI.
